@@ -35,7 +35,7 @@
                     <a class="nav-link" href="#">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Try free</a>
+                    <a class="nav-link btn btn-primary btn-sqr-primary text-white btn-sm" href="#">Try free</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Login</a>
